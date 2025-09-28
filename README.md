@@ -36,6 +36,7 @@ WiSpyShield is a project that monitors and detects Wi-Fi signals to ensure secur
     git clone https://github.com/Panchamihegde/WiSpyShield.git
     2. Navigate to the project folder:
        cd WiSpyShield
+       
     3.Open the index.html file in your browser to run the software prototype.
        You can double-click the file,
         or
