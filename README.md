@@ -43,5 +43,5 @@ WiSpyShield is a project that monitors and detects Wi-Fi signals to ensure secur
 
        ⚠️ Important: This code is a frontend prototype only. Full functionality requires connecting to the hardware components (Raspberry Pi and ESP8266) and integrating backend logic
       
-### **Hardware Setup Diagram**
+
 
