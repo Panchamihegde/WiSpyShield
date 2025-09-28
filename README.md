@@ -37,7 +37,7 @@ WiSpyShield is a project that monitors and detects Wi-Fi signals to ensure secur
     2. Navigate to the project folder:
        cd WiSpyShield
        
-    iii.Open the index.html file in your browser to run the software prototype.
+     iii.Open the index.html file in your browser to run the software prototype.
        You can double-click the file,
         or
        Right-click → Open With → Your browser (Chrome, Firefox, etc.)
